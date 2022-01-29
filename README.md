@@ -1,9 +1,7 @@
-# Hi, There! 👋
-
 <!-- ################################################################################################################방문자 수를 보고 초조함을 느끼자 -->
 <p>
   <a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/InSeong-So&count_bg=%234CD3FC&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false"/>
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/dev-msj&count_bg=%234CD3FC&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false"/>
   </a>
 </p>
 <p>
