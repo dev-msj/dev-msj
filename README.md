@@ -19,6 +19,7 @@
 <h4>✔️ 스터디</h4>
 <ul>
   <li>✍️ <strong><a href="https://github.com/dev-msj/Clean-Code">Clean Code</a></strong>&nbsp;<i>2022.01 ~ 계속</i></li>
+  <li>✍️ <strong><a href="https://github.com/dev-msj/Effective-Python">Effective Python</a></strong>&nbsp;<i>2022.02 ~ 계속</i></li>
 </ul>
 <!-- ################################################################################################################발자취 종료 -->
 
