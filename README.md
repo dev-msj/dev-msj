@@ -12,7 +12,7 @@
 <h3>:running: 발자취</h3>
 <h4>✔️ 이력</h4>
 <ul>
-  <li>🌃 <strong><a href="https://www.qraftec.com/">Qraft Technologies</a></strong>, <code>매니저</code>&nbsp;<i>2018.11 ~ 계속</i></li>
+  <li>🌃 <strong><a href="https://www.qraftec.com/">Qraft Technologies</a></strong>, <code>매니저</code>&nbsp;<i>2018.11 ~ 2022.04</i></li>
   <li>🏫 국비지원교육 <strong><a href="https://www.itwill.co.kr/">IT Will</a></strong>, <code>교육생</code>&nbsp;<i>2018. 05 ~ 2018. 10</i></li>
 </ul>
 
