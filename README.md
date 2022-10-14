@@ -19,7 +19,7 @@
 
 <h4>✔️ 스터디</h4>
 <ul>
-  <li>✍️ <strong><a href="https://github.com/dev-msj/Clean-Code">Clean Code</a></strong>&nbsp;<i>2022.01 ~ 계속</i></li>
+  <li>✍️ <strong><a href="https://github.com/dev-msj/Clean-Code">Clean Code</a></strong>&nbsp;<i>2022.01 ~ 보류</i></li>
 </ul>
 <!-- ################################################################################################################발자취 종료 -->
 
