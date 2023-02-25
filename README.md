@@ -19,6 +19,7 @@
 
 <h4>✔️ 스터디</h4>
 <ul>
+  <li>✍️ <strong><a href="[https://github.com/dev-msj/Clean-Code](https://github.com/Java-Algorithm-Study-Group/this-is-coding-test/tree/main/seungjun)">나동빈의 "이것이 코딩 테스트다" 책 읽고 하루 1문제 풀이</a></strong>&nbsp;<i>2023.01 ~ 진행중</i></li>
   <li>✍️ <strong><a href="https://github.com/dev-msj/Clean-Code">Clean Code</a></strong>&nbsp;<i>2022.01 ~ 보류</i></li>
 </ul>
 <!-- ################################################################################################################발자취 종료 -->
