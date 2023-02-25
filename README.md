@@ -12,6 +12,7 @@
 <h3>:running: 발자취</h3>
 <h4>✔️ 이력</h4>
 <ul>
+  <li><img src="https://user-images.githubusercontent.com/43961064/221353751-6c1339df-d04f-4376-acca-50cd39055594.PNG" style="width:15px; height:15px;"> <strong><a href="https://github.com/PipeCoding-Club">Pipe Coding Club</a></strong>, <code>멤버</code>&nbsp;<i>2023.02 ~ </i></li>
   <li><img src="https://static.f-lab.kr/images/logo/logo.svg" style="width:15px; height:15px;"> <strong><a href="https://f-lab.kr/">F-Lab 멘토링 Java Backend 과정</a></strong>, <code>멘티</code>&nbsp;<i>2022.10 ~ </i></li>
   <li>🌃 <strong><a href="https://www.qraftec.com/">Qraft Technologies</a></strong>, <code>매니저</code>&nbsp;<i>2018.11 ~ 2022.04</i></li>
   <li>🏫 국비지원교육 <strong><a href="https://www.itwill.co.kr/">IT Will</a></strong>, <code>교육생</code>&nbsp;<i>2018. 05 ~ 2018. 10</i></li>
