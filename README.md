@@ -1,6 +1,4 @@
-> <h1>느려보이는 길이 가장 빠르고 확실한 길이다💡</h1>
-
-<br>
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:FFE400,100:ABF200&height=250&section=header&text=느려보이는&nbsp;길이&nbsp;가장&nbsp;빠르고&nbsp;확실한&nbsp;길이다&fontSize=40&fontColor=black&fontAlignY=40&fontAlign=50)
 
 ## :running: 발자취
 
