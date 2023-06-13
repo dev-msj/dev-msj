@@ -11,11 +11,6 @@
 * <img src="https://static.f-lab.kr/images/logo/logo.svg" style="width:15px; height:15px;"> **[F-Lab 멘토링 Java Backend 과정](https://f-lab.kr/)** `멘티` *2022.10 ~ 진행중*
 * 🏫 **[IT Will 국비지원교육](https://www.itwill.co.kr/)** `교육생` *2018. 05 ~ 2018. 10*
 
-### ✔️ 스터디
-
-* ✍️ **[나동빈의 "이것이 코딩 테스트다" 책 읽고 하루 1문제 풀이](https://github.com/Java-Algorithm-Study-Group/this-is-coding-test/tree/main/seungjun")** *2023.01 ~ 진행중*
-* ✍️ **[Clean Code](https://github.com/dev-msj/Clean-Code)** *2022.01 ~ 중단*
-
 ### ✔️ 커뮤니티
 
 * <img src="https://user-images.githubusercontent.com/43961064/221353751-6c1339df-d04f-4376-acca-50cd39055594.PNG" style="width:15px; height:15px;"> **[Pipe Coding Club](https://github.com/PipeCoding-Club)** `멤버` *2023.02 ~ 진행중*
