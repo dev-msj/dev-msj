@@ -8,7 +8,7 @@
 
 ### ✔️ 교육
 
-* <img src="https://static.f-lab.kr/images/logo/logo.svg" style="width:15px; height:15px;"> **[F-Lab 멘토링 Java Backend 과정](https://f-lab.kr/)** `멘티` *2022.10 ~ 진행중*
+* <img src="https://static.f-lab.kr/images/logo/logo.svg" style="width:15px; height:15px;"> **[F-Lab 멘토링 Java Backend 과정](https://f-lab.kr/)** `멘티` *2022.10 ~ 07*
 * 🏫 **[IT Will 국비지원교육](https://www.itwill.co.kr/)** `교육생` *2018. 05 ~ 2018. 10*
 
 ### ✔️ 커뮤니티
