@@ -4,6 +4,8 @@
 
 ### ✔️ 이력
 
+* <img src="https://play-lh.googleusercontent.com/8tCJNd7Ja9Cb8ZzgJWEreKGlslSsz7lwtQ66ItPrvtKYJ-9F3Byfuw8Vyw99HmoRc1Ii=w240-h480-rw" style="width:15px; height:15px;"> **[부엔까미노](https://www.savle.net)** `수석` *2024.01 ~ 재직중*
+
 * <img src="https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F375ff061-65a2-40ce-8240-5bcfda7c2ed7%2FArtboard_16.png&blockId=b7724adf-5fa8-4b67-b701-5b2d7d407da9&width=256" style="width:15px; height:15px;"> **[Qraft Technologies](https://www.qraftec.com)** `매니저` *2018.11 ~ 2022.04*
 
 ### ✔️ 교육
