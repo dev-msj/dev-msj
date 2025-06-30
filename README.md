@@ -4,20 +4,14 @@
 
 ### ✔️ 이력
 
-* <img src="https://play-lh.googleusercontent.com/8tCJNd7Ja9Cb8ZzgJWEreKGlslSsz7lwtQ66ItPrvtKYJ-9F3Byfuw8Vyw99HmoRc1Ii=w240-h480-rw" style="width:15px; height:15px;"> **[부엔까미노](https://www.savle.net)** `수석` *2024.01 ~ 재직중*
+* <img src="https://play-lh.googleusercontent.com/8tCJNd7Ja9Cb8ZzgJWEreKGlslSsz7lwtQ66ItPrvtKYJ-9F3Byfuw8Vyw99HmoRc1Ii=w240-h480-rw" style="width:15px; height:15px;"> **[부엔까미노](https://www.savle.net)** `수석` *2024.01 ~ 2025.01*
 
 * <img src="https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F375ff061-65a2-40ce-8240-5bcfda7c2ed7%2FArtboard_16.png&blockId=b7724adf-5fa8-4b67-b701-5b2d7d407da9&width=256" style="width:15px; height:15px;"> **[Qraft Technologies](https://www.qraftec.com)** `매니저` *2018.11 ~ 2022.04*
 
 ### ✔️ 교육
 
-* <img src="https://static.f-lab.kr/images/logo/logo.svg" style="width:15px; height:15px;"> **[F-Lab 멘토링 Java Backend 과정](https://f-lab.kr/)** `멘티` *2022.10 ~ 07*
+* <img src="https://static.f-lab.kr/images/logo/logo.svg" style="width:15px; height:15px;"> **[F-Lab 멘토링 Java Backend 과정](https://f-lab.kr/)** `멘티` *2022.10 ~ 2023.07*
 * 🏫 **[IT Will 국비지원교육](https://www.itwill.co.kr/)** `교육생` *2018. 05 ~ 2018. 10*
-
-### ✔️ 커뮤니티
-
-* <img src="https://user-images.githubusercontent.com/43961064/221353751-6c1339df-d04f-4376-acca-50cd39055594.PNG" style="width:15px; height:15px;"> **[Pipe Coding Club](https://github.com/PipeCoding-Club)** `멤버` *2023.02 ~ 진행중*
-
-<br>
 
 ## :computer: 기술 스택
 
